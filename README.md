@@ -13,7 +13,8 @@ assignments 00 to 05
 
 
 Assignments 01
-01-basics
+01-basics - [https://colab.research.google.com/drive/1T-CdCdXL6ivFQtk1n8hfkSlESDTV-1UL#scrollTo=JRp4viH0mhcZ]
+
 
 assignments 1 to 06
 Project 1: Mad libs Python Project 
