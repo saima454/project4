@@ -10,6 +10,7 @@ assignments 00 to 05
  - 03_if_statements - [https://colab.research.google.com/drive/1wVzCAHY88IZxBYZR0qTqyUPGj-yU3Phe#scrollTo=tWgbWNxE8LIH]
  - 04_dictionaries - [https://colab.research.google.com/drive/1TZRv865NLI4wq_G7V9kc9hDaR06YuIIJ#scrollTo=1go9YrUEKA59]
  - 05_loops_control_flow - [https://colab.research.google.com/drive/1ZIdEhc3mNuVYslIV9UAu0Jatx3b3YtGu#scrollTo=y3POGQVbDt77]
+ - 06_functions - [https://colab.research.google.com/drive/1Tx4JDBJNDQxql7KYy6MvKUtU415M637i#scrollTo=YSkFICSfJwAA]
 
 
 
