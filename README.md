@@ -21,7 +21,7 @@ Assignments 01
 
 
 assignments 1 to 06
-- Project 1: Mad libs Python Project 
+- Project 1: Mad libs Python Project - [https://github.com/saima454/project4/blob/main/01_basics.ipynb]
 - Project 2: Guess the Number Game Python Project (computer) - [https://colab.research.google.com/drive/1eQ4HwW_3m5bdPJIV9lJab9GT-difl6e_]
 - Project 3: Guess the Number Game Python Project (user) - [https://colab.research.google.com/drive/1SKUc_TI6fcTW9QGWVCQQcnZUnIv567R3]
 - Project 4: Rock, paper, scissors Python Project- [https://colab.research.google.com/drive/1zpEGOknx6Q92Mt22w5amS39pEVDVVRsI]
