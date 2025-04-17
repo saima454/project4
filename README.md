@@ -27,5 +27,5 @@ assignments 1 to 06
 - Project 5: Hangman Python Project - [https://colab.research.google.com/drive/155sAFmiQ4gI4qrHyAiaAGlmcM5Eiih1K]
 -  Project 5: Hangman Python Project - [https://colab.research.google.com/drive/155sAFmiQ4gI4qrHyAiaAGlmcM5Eiih1K#scrollTo=Dw99aMevCXBa]
 - Project 6: Countdown Timer Python Project - [https://colab.research.google.com/drive/1UXvOCJZ56hPX3knC7I30UEcvhVSMDZac#scrollTo=SIlIcK8HH6Be]
-- generate_password - [https://colab.research.google.com/drive/1ZyJ89M1I_EhIadiZxg9SygRDT0cQuPGu]
+- project 7: generate_password - [https://colab.research.google.com/drive/1ZyJ89M1I_EhIadiZxg9SygRDT0cQuPGu]
 
