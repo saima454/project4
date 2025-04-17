@@ -17,6 +17,7 @@ assignments 00 to 05
 
 Assignments 01
 - 01-basics - [https://colab.research.google.com/drive/1T-CdCdXL6ivFQtk1n8hfkSlESDTV-1UL#scrollTo=JRp4viH0mhcZ]
+- 02_intermediate - [https://colab.research.google.com/drive/1RQ4M4o4lyePcWXV7V-XSLuhE3Of8AU4b#scrollTo=ZxQXad5kcWQz]
 
 
 assignments 1 to 06
